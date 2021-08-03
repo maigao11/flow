@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T14:31:03.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AoAvOeSi1q2auPRUr8Z5" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T14:39:02.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vzHS-COvHEp47cdDnS8x" version="14.9.3" type="github">
   <diagram id="-oy6Cdft9GARw-sINDHO" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -138,25 +138,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-75" value="客户端（Feign）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="800" width="115" height="40" as="geometry" />
+          <mxGeometry x="401" y="800" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMcNvP1yyJWkwGcx6KxA-76" target="hMcNvP1yyJWkwGcx6KxA-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-76" value="客户端（Feign）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="860" width="115" height="40" as="geometry" />
+          <mxGeometry x="401" y="860" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMcNvP1yyJWkwGcx6KxA-77" target="hMcNvP1yyJWkwGcx6KxA-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-77" value="客户端（Feign）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="930" width="115" height="40" as="geometry" />
+          <mxGeometry x="401" y="930" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-83" value="解决方式一覆盖：配置文件-》&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(204 , 120 , 50)&quot;&gt;spring.main.allow-bean-definition-overriding&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(128 , 128 , 128)&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(204 , 120 , 50)&quot;&gt;true&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="990" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-84" value="解决方式二：添加&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(187 , 181 , 41)&quot;&gt;@FeignClient(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(208 , 208 , 255)&quot;&gt;contextId =&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(106 , 135 , 89)&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34;&quot;&gt;&lt;font color=&quot;#ff5521&quot;&gt;provider-3&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; color: rgb(106 , 135 , 89)&quot;&gt;&quot;)来区分&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1020" width="552.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMcNvP1yyJWkwGcx6KxA-85" target="hMcNvP1yyJWkwGcx6KxA-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMcNvP1yyJWkwGcx6KxA-85" target="hMcNvP1yyJWkwGcx6KxA-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMcNvP1yyJWkwGcx6KxA-85" target="hMcNvP1yyJWkwGcx6KxA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-85" value="同一服务的多个Feign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
