@@ -1,1 +1,183 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T00:34:42.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.6" etag="yRFZW8Ynitx7zNXuMU-X" type="github"><diagram id="8sIvf4-CGYkTCinj28aE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-14T02:33:39.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NJ6gEOfGcwLRJbVxehko" version="14.9.6" type="github">
+  <diagram id="8sIvf4-CGYkTCinj28aE" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-2" value="镜像与容器的关系（1：n）" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="226" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-3" target="ZFSZeq2CEb13G1PCBp_n-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-3" target="ZFSZeq2CEb13G1PCBp_n-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-3" target="ZFSZeq2CEb13G1PCBp_n-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-3" value="image1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="285" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-7" value="镜像文件" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-12" value="容器" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="155" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-15" value="image3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="285" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-16" value="image2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="285" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-17" value="container1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-18" value="container3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-19" value="contaniner2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-23" value="容器基于镜像文件创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-25" value="镜像文件构建（Dockerfile文件）" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="226" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-29" target="ZFSZeq2CEb13G1PCBp_n-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-29" value="image1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="605" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-30" value="原始镜像文件" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-31" value="构建镜像" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="475" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-32" target="ZFSZeq2CEb13G1PCBp_n-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-32" value="image3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="605" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-33" value="image2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="605" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-34" value="image_1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="460" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-35" value="image_3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="460" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-36" value="image_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="460" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-46" value="由多个镜像文件构成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="540" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-47" value="window环境的容器访问与虚拟机内部访问" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="730" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="610" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-62" value="window系统（192.168.1.110）" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="800" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#03B3FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="850" width="310" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-64" value="浏览器(192.168.12.110:801)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="957" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-65" value="虚拟机centos（192.168.12.110）" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="860" width="215" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1F0BD4;" vertex="1" parent="1">
+          <mxGeometry x="125" y="900" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-67" value="docker" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="910" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-69" value="容器1（80）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="977" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-70" value="容器2（8080）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1010" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-71" value="容器运行时需要设置（--privileged）访问权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1040" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-73" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-69" target="ZFSZeq2CEb13G1PCBp_n-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="900" as="sourcePoint" />
+            <mxPoint x="290" y="987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-74" value="映射80端口绑定centos的801端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="1045" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-78" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-74" target="ZFSZeq2CEb13G1PCBp_n-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="870" as="sourcePoint" />
+            <mxPoint x="440" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-79" target="ZFSZeq2CEb13G1PCBp_n-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-79" value="对外ip：192.168.12.110:801" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="446" y="900" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-81" value="" style="endArrow=classic;html=1;exitX=0.461;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-64" target="ZFSZeq2CEb13G1PCBp_n-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446" y="910" as="sourcePoint" />
+            <mxPoint x="420" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-82" value="访问虚拟机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFSZeq2CEb13G1PCBp_n-81">
+          <mxGeometry x="0.1216" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-83" value="内部ip：127.17.0.12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-84" value="浏览器（127.17.0.12:80" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#1F0BD4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-86" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-84" target="ZFSZeq2CEb13G1PCBp_n-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1010" as="sourcePoint" />
+            <mxPoint x="350" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-89" value="" style="endArrow=classic;html=1;exitX=0.607;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#E33512;" edge="1" parent="1" source="ZFSZeq2CEb13G1PCBp_n-65" target="ZFSZeq2CEb13G1PCBp_n-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="940" as="sourcePoint" />
+            <mxPoint x="330" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-90" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFSZeq2CEb13G1PCBp_n-89">
+          <mxGeometry x="-0.6902" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFSZeq2CEb13G1PCBp_n-91" value="拒绝访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZFSZeq2CEb13G1PCBp_n-89">
+          <mxGeometry x="-0.6585" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
