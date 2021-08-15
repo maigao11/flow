@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T02:16:31.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.6" etag="P3JGq7B5EMXokCfR1JNa" type="github"><diagram id="YotwdsEVcaP0TW3Cr4ru">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-15T02:50:40.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="g3bpD6zkHFKK9jtJWN1z" version="14.9.6" type="github">
+  <diagram id="YotwdsEVcaP0TW3Cr4ru" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="of25HU9mpqP7PAI8oqeA-2" value="北投BACnet数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="160" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-3" value="" style="shape=link;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="220" as="sourcePoint" />
+            <mxPoint x="820" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="55" y="320" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-5" value="DDC箱1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="73" y="370" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-7" value="柜名1：对应ip地址只有一个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="370" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="73" y="487" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-10" value="系统名1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="401" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-19" value="系统名2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="401" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-20" value="系统名3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-21" value="系统名4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-22" value="柜名2：对应ip地址只有一个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="487" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-23" value="系统名1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="85" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-24" value="系统名2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-26" value="系统名3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="85" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-27" value="系统名4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-29" value="每个柜名的ip可能相同，有可能不同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="330" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-46" value="DDC箱2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="408" y="370" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-48" value="柜名1：对应ip地址只有一个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="408" y="487" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-50" value="系统名1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="401" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-51" value="系统名2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="535" y="401" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-52" value="系统名3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-53" value="系统名4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="535" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-54" value="柜名2：对应ip地址只有一个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="487" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-55" value="系统名1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-56" value="系统名2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="535" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-57" value="系统名3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-58" value="系统名4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="535" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-59" value="每个柜名的ip可能相同，有可能不同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-60" value="处理方式一：以IP条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="670" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-62" value="优点：可以统一IP段的设备信息，方便以ip为条件的查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="700" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-63" value="缺点：多个DDC箱互相交叉，容易造成数据混乱，且不易区分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="730" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-66" value="处理方式二：以DDC箱为条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="780" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-67" value="优点：以DDC箱为条件，方便查询DDC箱内的设备信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="810" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-68" value="缺点：不方便以IP为条件查询设备信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="840" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-70" value="处理方式三：对数据重新处理，映射IP+DDC这个两个条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="365" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-71" value="优点：解决以上两个问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="920" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-73" value="解决方式一：以IP为条件查询数据，对每个设备的属性中添加一个DDC箱属性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="950" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-74" value="考虑：不知道以IP查询时，数据中是否存在DDC的具体信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="980" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-75" value="解决方式二：以DDC箱为条件查询数据，对每个设备的属性中添加一个IP属性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1010" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="of25HU9mpqP7PAI8oqeA-76" value="考虑：不知道DDC箱的数量及具体的名字，或者不能以DDC箱名查询数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1040" width="400" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
