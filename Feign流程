@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T03:20:38.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="OjjRjQWIzQRxItgtORfQ" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T10:49:44.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7kEhktrZnhCkRNkI9I1k" version="14.9.8" type="github">
   <diagram id="-oy6Cdft9GARw-sINDHO" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hMcNvP1yyJWkwGcx6KxA-37" target="hMcNvP1yyJWkwGcx6KxA-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMcNvP1yyJWkwGcx6KxA-37" value="内容提供者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-37" value="子插件服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="143" y="512" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-38" value="服务名：service-name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -104,7 +104,7 @@
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hMcNvP1yyJWkwGcx6KxA-46" target="hMcNvP1yyJWkwGcx6KxA-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMcNvP1yyJWkwGcx6KxA-46" value="公共api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD54A;" parent="1" vertex="1">
+        <mxCell id="hMcNvP1yyJWkwGcx6KxA-46" value="SDK的公共api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD54A;" parent="1" vertex="1">
           <mxGeometry x="305" y="429.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hMcNvP1yyJWkwGcx6KxA-49" value="1: /api/test&lt;br&gt;2: /api/two" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
