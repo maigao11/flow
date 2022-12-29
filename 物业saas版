@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T01:37:17.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="clbTzh4r2zyyN5-tOHWp" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T01:45:06.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="C8ijHbtxMAtuQG5vxkMq" version="20.7.4" type="github">
   <diagram id="0zRcfiMZe5AEVxmNf0Rr" name="第 1 页">
     <mxGraphModel dx="1817" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -176,25 +176,17 @@
         <mxCell id="m4FNrrGiLK-4NfLL0zGs-84" value="登录成功，缓存租户编码实现数据库切换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465.15" y="424.94" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m4FNrrGiLK-4NfLL0zGs-85" value="&lt;h1&gt;数据库&lt;/h1&gt;&lt;p&gt;命名规则：ds_租户编码&lt;br&gt;数据库表规则：每个数据库都存在相同表&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="700" width="190" height="120" as="geometry" />
+        <mxCell id="m4FNrrGiLK-4NfLL0zGs-85" value="&lt;h1&gt;数据库&lt;/h1&gt;&lt;p&gt;命名规则：&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;默认库：&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 18px; background-color: rgb(199, 237, 204);&quot;&gt;property-saas&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;租户库：&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 18px; background-color: rgb(199, 237, 204);&quot;&gt;property-saas-租户编码&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 18px; background-color: rgb(199, 237, 204);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;--------------------------------------------------------------------------------&lt;br&gt;使用范围：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;默认库：管理端&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;租户库：用户端，管理端&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;管理端：默认库&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;用户端：具体的租户库，不能操作其它库&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;--------------------------------------------------------------------------------&lt;br&gt;公共表：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 广播表：默认库，租户库都存在相同数据&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170.15" y="760" width="330" height="350" as="geometry" />
         </mxCell>
         <mxCell id="m4FNrrGiLK-4NfLL0zGs-86" value="&lt;h1&gt;&lt;pre style=&quot;background-color:#c7edcc;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;span style=&quot;color:#083080;&quot;&gt;shardingsphere 实现分库&lt;/span&gt;&lt;/pre&gt;&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://shardingsphere.apache.org/document/legacy/4.x/document/cn/features/orchestration/registry-center/&quot;&gt;注册中心 :: ShardingSphere (apache.org)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://shardingsphere.apache.org/document/legacy/4.x/document/cn/features/orchestration/registry-center/&lt;br&gt;&lt;/p&gt;&lt;p&gt;可以实现：广播表，分表，分库。目前只需要广播表和分库功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="710" width="600" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="h678EE_SeZO6wp4bTzWN-3" value="广播表：字典表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1010" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h678EE_SeZO6wp4bTzWN-4" value="&lt;h1&gt;数据库命名规则&lt;/h1&gt;&lt;p&gt;默认库：&lt;span style=&quot;background-color: rgb(199, 237, 204); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;property-saas&lt;/span&gt;&lt;/p&gt;&lt;p&gt;租户库：&lt;span style=&quot;background-color: rgb(199, 237, 204); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;property-saas-租户编码&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="981" y="880" width="310" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="h678EE_SeZO6wp4bTzWN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h678EE_SeZO6wp4bTzWN-5">
+        <mxCell id="h678EE_SeZO6wp4bTzWN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1130" y="1140" as="targetPoint" />
+            <mxPoint x="1130" y="1150" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h678EE_SeZO6wp4bTzWN-5" value="&lt;h1&gt;数据库使用范围&lt;/h1&gt;&lt;p&gt;默认库：管理端&lt;br&gt;租户库：用户端，管理端&lt;/p&gt;&lt;p&gt;管理端：默认库&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户端：具体的租户库，不能操作其它库&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1010" width="300" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
