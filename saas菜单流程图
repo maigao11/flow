@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T01:19:29.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="6yNFM3UW8k-jN47lnNft" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T01:22:19.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="c0IN-0Zis3LwPtJaL979" version="20.8.18" type="github">
   <diagram name="第 1 页" id="Z3JJtYM86VcH1EfEdVhB">
     <mxGraphModel dx="1755" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -121,10 +121,10 @@
         <mxCell id="GfFuJ4IkiVKZrU9YNPcN-40" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="460" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GfFuJ4IkiVKZrU9YNPcN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFuJ4IkiVKZrU9YNPcN-43" target="GfFuJ4IkiVKZrU9YNPcN-33">
+        <mxCell id="GfFuJ4IkiVKZrU9YNPcN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFuJ4IkiVKZrU9YNPcN-48" target="GfFuJ4IkiVKZrU9YNPcN-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GfFuJ4IkiVKZrU9YNPcN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFuJ4IkiVKZrU9YNPcN-43" target="GfFuJ4IkiVKZrU9YNPcN-31">
+        <mxCell id="GfFuJ4IkiVKZrU9YNPcN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFuJ4IkiVKZrU9YNPcN-48" target="GfFuJ4IkiVKZrU9YNPcN-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GfFuJ4IkiVKZrU9YNPcN-43" value="授权菜单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -137,9 +137,6 @@
         </mxCell>
         <mxCell id="GfFuJ4IkiVKZrU9YNPcN-45" value="租户用户获取菜单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="660" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GfFuJ4IkiVKZrU9YNPcN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFuJ4IkiVKZrU9YNPcN-48" target="GfFuJ4IkiVKZrU9YNPcN-43">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GfFuJ4IkiVKZrU9YNPcN-48" value="角色与菜单中间表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="560" width="110" height="40" as="geometry" />
