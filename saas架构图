@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T14:55:19.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="CL5WttDuErutjKZVM7Fk" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T15:30:17.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="m2zhNUbljHO-N3RAh-Jw" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xr6N0zbF7ucqopyXSd9_">
     <mxGraphModel dx="1386" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -623,6 +623,9 @@
         </mxCell>
         <mxCell id="UwQgyIIEfQqP9HvZYDZH-173" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cell_phone.svg;" vertex="1" parent="1">
           <mxGeometry x="868.23" y="50" width="21" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UwQgyIIEfQqP9HvZYDZH-176" value="Seata" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="900" y="773" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
