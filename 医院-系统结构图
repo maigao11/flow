@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T01:33:24.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="eA3o04UGyMXVtDCwCen9" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-21T01:36:22.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="T8CdJppHUbxex36hAp-8" version="21.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="s8aihgxc61OTS319FKWL">
     <mxGraphModel dx="1631" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
           <mxGeometry x="650" y="720" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NSuCVWwI61j3lIscXQux-42" value="医生新增" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="840" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NSuCVWwI61j3lIscXQux-44" value="医生编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="100" height="50" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="840" y="650" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NSuCVWwI61j3lIscXQux-47" value="关联科室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="840" y="720" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
