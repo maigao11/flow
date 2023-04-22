@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T04:57:11.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="keSK5664R7HEMt0BatVa" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-22T04:57:31.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="k4nUdySJaWP0pPnKyyBu" version="21.0.6" type="github" pages="6">
   <diagram name="整体结构图" id="s8aihgxc61OTS319FKWL">
     <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -616,22 +616,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hqcB8LLjeLvk2oNcxVfD-1" value="系统模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqcB8LLjeLvk2oNcxVfD-1" value="系统模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqcB8LLjeLvk2oNcxVfD-2" value="医生模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqcB8LLjeLvk2oNcxVfD-2" value="医生模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqcB8LLjeLvk2oNcxVfD-3" value="患者模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqcB8LLjeLvk2oNcxVfD-3" value="患者模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="780" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqcB8LLjeLvk2oNcxVfD-4" value="就诊模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqcB8LLjeLvk2oNcxVfD-4" value="就诊模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="950" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z480-vmfdKDEr4Lsp19L-1" value="科室模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z480-vmfdKDEr4Lsp19L-1" value="科室模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z480-vmfdKDEr4Lsp19L-2" value="医保模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z480-vmfdKDEr4Lsp19L-2" value="医保模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_q7ZEwZHqrAcFnLMtJU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_q7ZEwZHqrAcFnLMtJU-2" target="hqcB8LLjeLvk2oNcxVfD-1">
@@ -652,7 +652,7 @@
         <mxCell id="4_q7ZEwZHqrAcFnLMtJU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_q7ZEwZHqrAcFnLMtJU-2" target="z480-vmfdKDEr4Lsp19L-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_q7ZEwZHqrAcFnLMtJU-2" value="社区医院系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_q7ZEwZHqrAcFnLMtJU-2" value="社区医院系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
