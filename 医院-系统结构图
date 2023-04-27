@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T04:57:31.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="k4nUdySJaWP0pPnKyyBu" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-27T13:48:42.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="Wqf9B_950WBnAwsFfu15" version="21.2.2" type="github" pages="7">
   <diagram name="整体结构图" id="s8aihgxc61OTS319FKWL">
-    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="WhMDFSrjG-s067fc7f_N-30" value="我的医保" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="480" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wlH7_3G-dKM3jGVnBz2b-1" value="社区医院系统" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wlH7_3G-dKM3jGVnBz2b-1" value="社区医院系统" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="30" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -655,6 +655,14 @@
         <mxCell id="4_q7ZEwZHqrAcFnLMtJU-2" value="社区医院系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="140" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AQZzPTjuKRcWkAAiVt8q" name="第 7 页">
+    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
