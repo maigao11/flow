@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T07:00:34.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="H0iPSx3flrty8BaVi0xU" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T07:04:34.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="XcPGK3QmOUciKGZQG5iQ" version="22.1.2" type="github">
   <diagram name="第 1 页" id="BHudBMk0eO3V-7AMpbIP">
-    <mxGraphModel dx="1149" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,21 +151,6 @@
         </mxCell>
         <mxCell id="A0oJKM3CM-BFHdC1iKpo-81" value="商家" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="80" y="900" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="720" width="120" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-83" value="基本池" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="720" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-84" value="苹果池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="868.45" y="802.6" width="79.05" height="26.4" as="geometry" />
-        </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-85" value="资金池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="863.45" y="851.6" width="89.05" height="22.4" as="geometry" />
-        </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-86" value="果树池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="868.45" y="768.3" width="79.05" height="26.4" as="geometry" />
         </mxCell>
         <mxCell id="A0oJKM3CM-BFHdC1iKpo-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0oJKM3CM-BFHdC1iKpo-90" target="A0oJKM3CM-BFHdC1iKpo-91">
           <mxGeometry relative="1" as="geometry" />
