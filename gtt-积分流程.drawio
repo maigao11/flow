@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T06:57:41.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="6hM9sL-HHkWj7CgqedDm" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T06:58:10.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="4xRaCbGyMWp5AQuV6OkG" version="22.1.3" type="github">
   <diagram name="第 1 页" id="BHudBMk0eO3V-7AMpbIP">
     <mxGraphModel dx="1379" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="A0oJKM3CM-BFHdC1iKpo-91" value="游戏模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="752" y="925" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A0oJKM3CM-BFHdC1iKpo-94" value="购买方式：积分？可以" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="A0oJKM3CM-BFHdC1iKpo-94" value="购买方式：积分？可以&lt;br&gt;现金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="233" y="990" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A0oJKM3CM-BFHdC1iKpo-97" value="订单完成消耗商家苹果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
